@@ -114,7 +114,7 @@
 
 ## ⚡ Fun Fact
 
-> **A model is only as good as the pipeline behind it.**
+> **I don't fear AI taking over the world. I fear it reading my commit history first.**
 
 ---
 
