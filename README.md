@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Eyad Elghonemy
+# السلام عليكم 👋, I'm Eyad Elghonemy
 
 ### Electrical & Computer Engineering Junior Student | AI/ML & Backend Developer
 
