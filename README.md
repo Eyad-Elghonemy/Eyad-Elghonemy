@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Eyad-Elghonemy.png" alt="Eyad Elghonemy" width="120" style="border-radius: 50%;" />
+</div>
+
 # السلام عليكم 👋, I'm Eyad Elghonemy
 
 ### Electrical & Computer Engineering Junior Student | AI/ML & Backend Developer
@@ -39,7 +43,7 @@
 ### 🌐 Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,supabase" />
 </p>
 
 `FastAPI` `Pydantic` `Uvicorn` `Supabase` `REST APIs` `Docker` `Streamlit`
