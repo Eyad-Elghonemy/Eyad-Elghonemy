@@ -11,11 +11,10 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
 
 * Junior student of Electrical & Computer Engineering (ECE) at Menoufia University
 * Focused on **Machine Learning, Deep Learning, Computer Vision, and NLP**
-* Building **production-grade ML APIs** with FastAPI, TensorFlow, and scikit-learn
-* Working with **YOLO, OpenCV, and Generative AI** for computer vision tasks
+* Building **production-grade ML APIs**
 * Comfortable across the full pipeline: data collection, EDA, modeling, deployment, and logging
-* Also enjoy backend engineering — clean architecture, validation, auth, and API design
-* Egypt
+* Also enjoy backend Devlopment — clean architecture, validation, auth, and API design
+* Egypt - Al-Qalyubia - Banha
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- Contact with me -->
