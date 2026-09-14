@@ -1,5 +1,5 @@
 Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-### Electrical & Computer Engineering Junior Student | AI/ML Developer
+### Electrical & Computer Engineering Junior Student | AI/ML Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;FastAPI+%7C+TensorFlow+%7C+Scikit-learn+%7C+YOLO;Computer+Vision+%26+NLP+Enthusiast;Building+Production-Ready+ML+APIs;Electrical+%26+Computer+Engineering;Always+Learning" alt="Typing SVG" />
