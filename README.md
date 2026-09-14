@@ -58,7 +58,7 @@ AI, ML & Data
 
 `TensorFlow / Keras` `YOLO (Ultralytics)` `scikit-learn` `PyTorch` 
 
-Backend & APIs
+Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,supabase" />
