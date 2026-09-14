@@ -41,7 +41,7 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,assembly" />
 </p>
 
 AI, ML & Data
