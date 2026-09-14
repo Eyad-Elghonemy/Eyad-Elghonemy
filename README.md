@@ -50,9 +50,13 @@ AI, ML & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pytorch" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/numpy_icon.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/pandas_icon.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/spacy_icon.svg" width="48" height="48" alt="spaCy" title="spaCy" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/nltk_icon.svg" width="48" height="48" alt="NLTK" title="NLTK" />
 </p>
 
-`YOLO (Ultralytics)` `TensorFlow / Keras` `scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy` `PCA / ICA` `Computer Vision` `NLP` `Anomaly Detection`
+`TensorFlow / Keras` `YOLO (Ultralytics)` `scikit-learn` `PyTorch` 
 
 Backend & APIs
 
