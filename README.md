@@ -110,7 +110,3 @@ Tools & Platforms
     />
   </picture>
 </p>
-
-> To activate this animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `Eyad-Elghonemy/Eyad-Elghonemy`.
-
----
