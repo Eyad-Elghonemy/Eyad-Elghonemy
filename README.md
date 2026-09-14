@@ -42,7 +42,7 @@ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp" />
-  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/assembly_icon.svg" width="48" height="48" alt="Assembly" title="Assembly (x86/8086)" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/assembly_icon.svg" width="48" height="48" alt="Assembly" title="Assembly (x86/8086)" />
 </p>
 
 AI, ML & Data
