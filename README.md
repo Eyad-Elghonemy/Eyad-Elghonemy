@@ -65,9 +65,9 @@ Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/streamlit_icon.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=supabase" title="SupBase" />
-  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/streamlit_icon.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
 </p>
 
 
