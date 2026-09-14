@@ -5,8 +5,6 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;FastAPI+%7C+TensorFlow+%7C+Scikit-learn+%7C+YOLO;Computer+Vision+%26+NLP+Enthusiast;Building+Production-Ready+ML+APIs;Electrical+%26+Computer+Engineering;Always+Learning" alt="Typing SVG" />
 </p>
 
----
-
 <h3 align="center">Passionate About AI and Software Engineering.</h3>
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -35,8 +33,6 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
   <a href="https://wa.me/+201016432120"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 </p>
-
----
 
 <!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -75,14 +71,8 @@ Tools & Platforms
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyad-Elghonemy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyad-Elghonemy&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <h3 align="center">Contribution Snake</h3>
 
