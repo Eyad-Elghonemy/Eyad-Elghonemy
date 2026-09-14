@@ -41,35 +41,47 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/sql_icon.svg" width="48" height="48" alt="SQL" title="SQL Server" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/assembly_icon.svg" width="48" height="48" alt="Assembly" title="Assembly (x86/8086)" />
-  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/sql_icon.svg" width="48" height="48" alt="SQL" title="SQL Server / T-SQL" />
 </p>
 
 AI, ML & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pytorch" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/numpy_icon.svg" width="48" height="48" alt="NumPy" title="NumPy" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/pandas_icon.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=sklearn" title="sKlearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
+  <img src="https://cdn.simpleicons.org/ultralytics" width="48" height="48" alt="Ultralytics" title="YOLO (Ultralytics)" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/spacy_icon.svg" width="48" height="48" alt="spaCy" title="spaCy" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/nltk_icon.svg" width="48" height="48" alt="NLTK" title="NLTK" />
 </p>
-
-`TensorFlow / Keras` `YOLO (Ultralytics)` `scikit-learn` `PyTorch` 
-
+ 
 Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,supabase" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="SupBase" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/streamlit_icon.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
 </p>
 
-`FastAPI` `Pydantic` `Uvicorn` `Supabase` `REST APIs` `Docker` `Streamlit`
 
 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" title="Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" />
+  <img src="https://cdn.simpleicons.org/googlecolab" width="48" height="48" title="Google Colab" />
 </p>
 
 ---
