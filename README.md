@@ -42,8 +42,9 @@ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp" />
-  <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white" height="48" />
 </p>
+
+`Assembly (x86 / 8086)`
 
 AI, ML & Data
 
