@@ -80,7 +80,16 @@ Tools & Platforms
   <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" title="Anaconda" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" title="Postman" />
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" title="Arduino IDE" />
   <img src="https://cdn.simpleicons.org/googlecolab" width="48" height="48" title="Google Colab" />
+  <img src="https://cdn.simpleicons.org/kaggle" width="48" height="48" title="Kaggle" />
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" width="48" height="48" title="GeeksforGeeks" />
+  <img src="https://cdn.simpleicons.org/vmware" width="48" height="48" title="VMware" />
+  <img src="https://cdn.simpleicons.org/kicad" width="48" height="48" title="KiCad" />
+  <img src="https://cdn.simpleicons.org/codeforces" width="48" height="48" title="Codeforces" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/thunderclient_icon.svg" width="48" height="48" title="Thunder Client" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/tinkercad_icon.svg" width="48" height="48" title="TinkerCAD" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/proteus_icon.svg" width="48" height="48" title="Proteus" />
 </p>
 
 ---
