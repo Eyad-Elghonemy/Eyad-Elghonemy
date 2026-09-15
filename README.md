@@ -84,6 +84,7 @@ Tools & Platforms
   <img src="https://cdn.simpleicons.org/geeksforgeeks" width="48" height="48" title="GeeksforGeeks" />
   <img src="https://cdn.simpleicons.org/vmware" width="48" height="48" title="VMware" />
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/templeos_icon.svg" width="48" height="48" title="TempleOS" />
   <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" title="Arduino IDE" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/tinkercad_icon.svg" width="48" height="48" title="TinkerCAD" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/proteus_icon.svg" width="48" height="48" title="Proteus" /> 
