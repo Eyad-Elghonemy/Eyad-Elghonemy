@@ -10,10 +10,8 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 * Junior student of Electrical & Computer Engineering (ECE) at Menoufia University
-* Focused on **Machine Learning, Deep Learning, Computer Vision, and NLP**
-* Building **production-grade ML APIs**
-* Comfortable across the full pipeline: data collection, EDA, modeling, deployment, and logging
-* Also enjoy backend Devlopment — clean architecture, validation, auth, and API design
+* AI/ML Engineer focused on Computer Vision & NLP
+* Building production-ready ML APIs and backend systems
 * Egypt - Al-Qalyubia - Banha
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
