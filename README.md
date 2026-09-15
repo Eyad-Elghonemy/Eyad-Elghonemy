@@ -1,8 +1,8 @@
 Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-### Electrical & Computer Engineering Junior Student | AI/ML Developer
+### Electrical & Computer Engineering Junior Student | AI/ML Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+ECE+Student;Building+Production-Ready+AI+APIs;ML+%7C+Computer+Vision+%7C+NLP;From+Data+to+Deployment%2C+End-to-End;Always+Learning;Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+ECE+Student;Building+Production-Ready+ML+APIs;ML+%7C+Computer+Vision+%7C+NLP;From+Data+to+Deployment%2C+End-to-End;Always+Learning;Always+Shipping" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Passionate About AI and Software Engineering.</h3>
