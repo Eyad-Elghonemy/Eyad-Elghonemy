@@ -29,6 +29,9 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
   </a>
   <a href="https://wa.me/+201016432120"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
+  <a href="https://x.com/eyadzz_11">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </p>
 
 <!-- Skills -->
