@@ -12,7 +12,7 @@ Well, السلام عليكم! It's Eyad Elghonemy<img src="https://media.giphy.
 * Junior student of Electrical & Computer Engineering (ECE) at Menoufia University
 * AI/ML Engineer focused on Computer Vision & NLP
 * Building production-ready ML APIs and backend systems
-* Egypt - Al-Qalyubia - Banha
+* Egypt
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- Contact with me -->
