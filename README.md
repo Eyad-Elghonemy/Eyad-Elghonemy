@@ -43,7 +43,7 @@ Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/sql_icon.svg" width="48" height="48" alt="SQL" title="SQL Server" />
+  <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/sql_icon.svg" width="48" height="48" alt="SQL" title="SQL" />
   <img src="https://raw.githubusercontent.com/Eyad-Elghonemy/Eyad-Elghonemy/main/assembly_icon.svg" width="48" height="48" alt="Assembly" title="Assembly (x86/8086)" />
 </p>
 
