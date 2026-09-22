@@ -103,7 +103,7 @@ Tools & Platforms
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyad-Elghonemy&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="center">A Snake Eating my Contributions Graph
+<h3 align="center">A snake eating my contributions graph
 </h3>
 
 <p align="center">
