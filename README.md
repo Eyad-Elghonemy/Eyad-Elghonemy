@@ -72,7 +72,7 @@ Deployment
 </p>
 
 
-Tools & Platforms
+Tools, OS & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="VS Code" />
